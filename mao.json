@@ -1,0 +1,2557 @@
+{
+  "sites": [
+    {
+      "key": "csp_ziyong",
+      "name": "自用源",
+      "type": 1,
+      "api": "https://cms.qdxxwl.cn/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "lives": [
+    {
+      "group": "央视高清",
+      "channels": [
+        {
+          "name": "CCTV-1高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctv1hd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-1港澳版高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctv1hdhk.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-2高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctv2hd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-3高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctv3hd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-4高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctv4hd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-5高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctv5hd.m3u8",
+            "http://iptv.tvfix.org/hls/cctv5phd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-6高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctv6hd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-7高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctv7hd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-8高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctv8hd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-9高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctv9hd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-10高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctv10hd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-11高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctv11hd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-12高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctv12hd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-13高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctv13hd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-14高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctv14hd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-15高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctv15hd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-16高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctv16hd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-17高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctv17hd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-4K超高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctv4k.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV怀旧剧场高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctvhjjchd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV高尔夫网球高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctvgefwqhd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV世界地理高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctvsjdlhd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV兵器科技高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctvbqkjhd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV卫生健康高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctvwsjkhd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV风云剧场高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctvfyjchd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV央视台球高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctvtqhd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV央视文化精品高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctvwhjphd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV女性健康高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctvnxjkhd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV电视指南高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctvdsznhd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV风云音乐高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctvfyyyhd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV风云足球高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctvfyzqhd.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV第一剧场高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cctvdyjchd.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cgtnhd.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN纪录高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cgtndochd.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN法语高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cgtnfhd.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN俄语高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cgtnehd.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN阿拉伯语高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cgtnahd.m3u8"
+          ]
+        },
+        {
+          "name": "CGTN西班牙语高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cgtnxhd.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "卫视高清",
+      "channels": [
+        {
+          "name": "北京卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/brtv1hd.m3u8"
+          ]
+        },
+        {
+          "name": "湖南卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/hunanhd.m3u8"
+          ]
+        },
+        {
+          "name": "浙江卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/zjhd.m3u8"
+          ]
+        },
+        {
+          "name": "江苏卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/jshd.m3u8"
+          ]
+        },
+        {
+          "name": "东方卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/dfhd.m3u8"
+          ]
+        },
+        {
+          "name": "安徽卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/ahhd.m3u8"
+          ]
+        },
+        {
+          "name": "黑龙江卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/hljhd.m3u8"
+          ]
+        },
+        {
+          "name": "辽宁卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/lnhd.m3u8"
+          ]
+        },
+        {
+          "name": "深圳卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/szhd.m3u8"
+          ]
+        },
+        {
+          "name": "广东卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/gdhd.m3u8"
+          ]
+        },
+        {
+          "name": "天津卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/tjhd.m3u8"
+          ]
+        },
+        {
+          "name": "湖北卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/hbhd.m3u8"
+          ]
+        },
+        {
+          "name": "山东卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/sdhd.m3u8"
+          ]
+        },
+        {
+          "name": "重庆卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cqhd.m3u8"
+          ]
+        },
+        {
+          "name": "福建东南卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/dnhd.m3u8"
+          ]
+        },
+        {
+          "name": "四川卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/schd.m3u8"
+          ]
+        },
+        {
+          "name": "江西卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/jxhd.m3u8"
+          ]
+        },
+        {
+          "name": "河南卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/hnhd.m3u8"
+          ]
+        },
+        {
+          "name": "广西卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/gxhd.m3u8"
+          ]
+        },
+        {
+          "name": "海南卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/lyhd.m3u8"
+          ]
+        },
+        {
+          "name": "贵州卫视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/gzhd.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "地方频道",
+      "channels": [
+        {
+          "name": "北京文艺高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/brtv2hd.m3u8"
+          ]
+        },
+        {
+          "name": "北京科教高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/brtv3hd.m3u8"
+          ]
+        },
+        {
+          "name": "北京影视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/brtv4hd.m3u8"
+          ]
+        },
+        {
+          "name": "北京财经高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/brtv5hd.m3u8"
+          ]
+        },
+        {
+          "name": "北京生活高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/brtv7hd.m3u8"
+          ]
+        },
+        {
+          "name": "北京青年高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/brtv8hd.m3u8"
+          ]
+        },
+        {
+          "name": "北京新闻高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/brtv9hd.m3u8"
+          ]
+        },
+        {
+          "name": "北京卡酷少儿高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/brtv10hd.m3u8"
+          ]
+        },
+        {
+          "name": "北京冬奥纪实高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/brtv11hd.m3u8"
+          ]
+        },
+        {
+          "name": "上海新闻综合高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/shxwzhhd.m3u8"
+          ]
+        },
+        {
+          "name": "上海东方影视高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/shdfyshd.m3u8"
+          ]
+        },
+        {
+          "name": "上海都市频道高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/shdspdhd.m3u8"
+          ]
+        },
+        {
+          "name": "上海外语频道高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/shwypdhd.m3u8"
+          ]
+        },
+        {
+          "name": "上海第一财经高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/shdycjhd.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "特色频道",
+      "channels": [
+        {
+          "name": "五星体育高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/wxtyhd.m3u8"
+          ]
+        },
+        {
+          "name": "极速汽车高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/jsqchd.m3u8"
+          ]
+        },
+        {
+          "name": "劲爆体育高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/jbtyhd.m3u8"
+          ]
+        },
+        {
+          "name": "新视觉高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/xsjhd.m3u8"
+          ]
+        },
+        {
+          "name": "魅力足球高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/mlzqhd.m3u8"
+          ]
+        },
+        {
+          "name": "游戏风云高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/yxfyhd.m3u8"
+          ]
+        },
+        {
+          "name": "全纪实高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/qjshd.m3u8"
+          ]
+        },
+        {
+          "name": "纪实人文高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/docuchina.m3u8"
+          ]
+        },
+        {
+          "name": "CHC高清电影",
+          "urls": [
+            "http://iptv.tvfix.org/hls/chchd.m3u8"
+          ]
+        },
+        {
+          "name": "哈哈炫动高清",
+          "urls": [
+            "http://iptv.tvfix.org/hls/hhxdhd.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "测试频道",
+      "channels": [
+        {
+          "name": "乌克兰新闻频道",
+          "urls": [
+            "http://iptv.tvfix.org/hls/prmua.m3u8"
+          ]
+        },
+        {
+          "name": "今日俄罗斯电视台",
+          "urls": [
+            "http://iptv.tvfix.org/hls/rt.m3u8"
+          ]
+        },
+        {
+          "name": "俄罗斯电视台24频道",
+          "urls": [
+            "http://iptv.tvfix.org/hls/russia24.m3u8"
+          ]
+        },
+        {
+          "name": "CNN新闻频道",
+          "urls": [
+            "http://iptv.tvfix.org/hls/cnn.m3u8"
+          ]
+        },
+        {
+          "name": "BBC新闻频道",
+          "urls": [
+            "http://iptv.tvfix.org/hls/bbcnews.m3u8"
+          ]
+        },
+        {
+          "name": "翡翠台(第1声道繁体)",
+          "urls": [
+            "http://iptv.tvfix.org/hls/jade.m3u8"
+          ]
+        },
+        {
+          "name": "翡翠台(第2声道简体)",
+          "urls": [
+            "http://iptv.tvfix.org/hls/jadehk2.m3u8"
+          ]
+        },
+        {
+          "name": "翡翠台海外版(粤语繁体)",
+          "urls": [
+            "http://iptv.tvfix.org/hls/jadenhk.m3u8"
+          ]
+        },
+        {
+          "name": "翡翠台海外版(普通话简体)",
+          "urls": [
+            "http://iptv.tvfix.org/hls/jadenhk2.m3u8"
+          ]
+        },
+        {
+          "name": "J2",
+          "urls": [
+            "http://iptv.tvfix.org/hls/j2.m3u8",
+            "http://iptv.tvfix.org/hls/j22.m3u8"
+          ]
+        },
+        {
+          "name": "明珠台",
+          "urls": [
+            "http://iptv.tvfix.org/hls/pearl.m3u8",
+            "http://iptv.tvfix.org/hls/pearl2.m3u8"
+          ]
+        },
+        {
+          "name": "无线财经资讯台",
+          "urls": [
+            "http://iptv.tvfix.org/hls/finance.m3u8",
+            "http://iptv.tvfix.org/hls/finance2.m3u8"
+          ]
+        },
+        {
+          "name": "无线财经资讯台海外版",
+          "urls": [
+            "http://iptv.tvfix.org/hls/financenhk.m3u8"
+          ]
+        },
+        {
+          "name": "ViuTV",
+          "urls": [
+            "http://iptv.tvfix.org/hls/viutv.m3u8",
+            "http://iptv.tvfix.org/hls/viutv2.m3u8"
+          ]
+        },
+        {
+          "name": "RTHK31",
+          "urls": [
+            "http://iptv.tvfix.org/hls/rthk31.m3u8"
+          ]
+        },
+        {
+          "name": "RTHK32",
+          "urls": [
+            "http://iptv.tvfix.org/hls/rthk32.m3u8"
+          ]
+        },
+        {
+          "name": "HBO(第1声道粤语)",
+          "urls": [
+            "http://iptv.tvfix.org/hls/hbo.m3u8"
+          ]
+        },
+        {
+          "name": "HBO(第2声道原声)",
+          "urls": [
+            "http://iptv.tvfix.org/hls/hbo2.m3u8"
+          ]
+        },
+        {
+          "name": "美亚电影台(粤语)",
+          "urls": [
+            "http://iptv.tvfix.org/hls/mydy.m3u8"
+          ]
+        },
+        {
+          "name": "美亚电影台(普通话)",
+          "urls": [
+            "http://iptv.tvfix.org/hls/mydy2.m3u8"
+          ]
+        },
+        {
+          "name": "卫视电影台",
+          "urls": [
+            "http://iptv.tvfix.org/hls/starmovies.m3u8"
+          ]
+        },
+        {
+          "name": "天映频道",
+          "urls": [
+            "http://iptv.tvfix.org/hls/typd.m3u8"
+          ]
+        },
+        {
+          "name": "天映经典",
+          "urls": [
+            "http://iptv.tvfix.org/hls/tyjd.m3u8",
+            "http://iptv.tvfix.org/hls/tyjd2.m3u8"
+          ]
+        },
+        {
+          "name": "Animax",
+          "urls": [
+            "http://iptv.tvfix.org/hls/animax.m3u8",
+            "http://iptv.tvfix.org/hls/animax2.m3u8"
+          ]
+        },
+        {
+          "name": "Hands Up Channel",
+          "urls": [
+            "http://iptv.tvfix.org/hls/kid.m3u8",
+            "http://iptv.tvfix.org/hls/kid2.m3u8"
+          ]
+        },
+        {
+          "name": "Thrill",
+          "urls": [
+            "http://iptv.tvfix.org/hls/thrill.m3u8"
+          ]
+        },
+        {
+          "name": "TVB星河(粤语)",
+          "urls": [
+            "http://iptv.tvfix.org/hls/tvbxh.m3u8"
+          ]
+        },
+        {
+          "name": "TVB星河(普通话)",
+          "urls": [
+            "http://iptv.tvfix.org/hls/tvbxh2.m3u8"
+          ]
+        },
+        {
+          "name": "TVB功夫台(粤语)",
+          "urls": [
+            "http://iptv.tvfix.org/hls/tvbkf.m3u8"
+          ]
+        },
+        {
+          "name": "TVB功夫(普通话)",
+          "urls": [
+            "http://iptv.tvfix.org/hls/tvbkf2.m3u8"
+          ]
+        },
+        {
+          "name": "TVBS亚洲台",
+          "urls": [
+            "http://iptv.tvfix.org/hls/tvbs.m3u8"
+          ]
+        },
+        {
+          "name": "NHK WORLD Premium",
+          "urls": [
+            "http://iptv.tvfix.org/hls/nhkworldpremium.m3u8"
+          ]
+        },
+        {
+          "name": "NHK WORLD(中文字幕)",
+          "urls": [
+            "http://iptv.tvfix.org/hls/nhkworldzh.m3u8"
+          ]
+        },
+        {
+          "name": "tvN",
+          "urls": [
+            "http://iptv.tvfix.org/hls/tvn.m3u8"
+          ]
+        },
+        {
+          "name": "瞬间看地球",
+          "urls": [
+            "http://iptv.tvfix.org/hls/earth.m3u8"
+          ]
+        },
+        {
+          "name": "凤凰资讯",
+          "urls": [
+            "http://iptv.tvfix.org/hls/fhzx.m3u8"
+          ]
+        },
+        {
+          "name": "凤凰中文",
+          "urls": [
+            "http://iptv.tvfix.org/hls/fhzw.m3u8"
+          ]
+        },
+        {
+          "name": "Discovery",
+          "urls": [
+            "http://iptv.tvfix.org/hls/discovery.m3u8"
+          ]
+        },
+        {
+          "name": "动物星球",
+          "urls": [
+            "http://iptv.tvfix.org/hls/animal.m3u8",
+            "http://iptv.tvfix.org/hls/animal2.m3u8"
+          ]
+        },
+        {
+          "name": "HUB都会",
+          "urls": [
+            "http://iptv.tvfix.org/hls/hubcity.m3u8"
+          ]
+        },
+        {
+          "name": "HUB娱家",
+          "urls": [
+            "http://iptv.tvfix.org/hls/hubvv.m3u8"
+          ]
+        }
+      ]
+    }
+  ],
+  "parses": [
+    {
+      "name": "Json并发",
+      "type": 2,
+      "url": "Parallel"
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "快解",
+      "type": 1,
+      "url": "https://analysis.yikan.one/analysis/json/?uid=8&my=fjkmoqFJLORTVZ1359&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
+    },
+    {
+      "name": "快解1",
+      "type": 1,
+      "url": "https://apis.jxcxin.cn/api/jx?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
+    },
+    {
+      "name": "快解2",
+      "type": 1,
+      "url": "https://json.pangujiexi.com:12345/json.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯"
+        ]
+      }
+    },
+    {
+      "name": "快解3",
+      "type": 1,
+      "url": "https://apis.jxcxin.cn/api/jx?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷"
+        ]
+      }
+    },
+    {
+      "name": "快解4",
+      "type": 1,
+      "url": "http://42.157.128.85:880/analysis/json/?uid=1735&my=djlquvFIKLORTUVXY9&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷"
+        ]
+      }
+    },
+    {
+      "name": "快解5(芒果)",
+      "type": 1,
+      "url": "https://a.dxzj88.com/jhjhjx/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
+    },
+    {
+      "name": "300看世界",
+      "type": 1,
+      "url": "https://jx.300ys.xyz/json/jh.php/?url=",
+      "ext": {
+        "flag": [
+          "youku",
+          "优酷",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "renrenmi",
+          "qq",
+          "腾讯",
+          "letv",
+          "乐视"
+        ]
+      }
+    },
+    {
+      "name": "parwix解析",
+      "type": 0,
+      "url": "https://jx.parwix.com:4433/player/?url="
+    },
+    {
+      "name": "4K影院",
+      "type": 1,
+      "url": "http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果"
+        ]
+      }
+    },
+    {
+      "name": "麻瓜视频",
+      "type": 1,
+      "url": "https://kuba.renrenmi.cc:2266/api/?key=a2bSwx5iAGx1g2qn4h&url=",
+      "ext": {
+        "flag": [
+          "renrenmi"
+        ]
+      }
+    },
+    {
+      "name": "爱西西",
+      "type": 1,
+      "url": "http://jx.laodi.xyz:6699/api.php/user/jx?uid=4&ldkey=BLsUKYVZiWdmQc7bbpT3&url=",
+      "ext": {
+        "flag": [
+          "laodim3u8"
+        ]
+      }
+    },
+    {
+      "name": "喵派对1(专解)",
+      "type": 1,
+      "url": "https://vip.aiaine.com/api/?key=pJiKdUKoatLiVha0el&url=",
+      "ext": {
+        "flag": [
+          "miaoparty",
+          "miaoparty2"
+        ]
+      }
+    },
+    {
+      "name": "喵派对2(专解)",
+      "type": 1,
+      "url": "https://vip.aiaine.com/api/?key=SkpzjID8gGJB8erIoy&url=",
+      "ext": {
+        "flag": [
+          "miaoparty",
+          "miaoparty2"
+        ]
+      }
+    },
+    {
+      "name": "喵派对3(专解)",
+      "type": 1,
+      "url": "https://vip.aiaine.com/api/?key=JFjNlsJQaEORBRB54B&url=",
+      "ext": {
+        "flag": [
+          "miaoparty",
+          "miaoparty2"
+        ]
+      }
+    },
+    {
+      "name": "段友影视",
+      "type": 1,
+      "url": "http://ts.yjhan.com:8090/api/?key=DSQFgXdmj9xkDyiXdr&url=",
+      "ext": {
+        "flag": [
+          "CL4K"
+        ]
+      }
+    },
+    {
+      "name": "爱看美剧",
+      "type": 1,
+      "url": "http://ts.yjhan.com:8090/api/?key=P6XfOl9hD3LpqOFdRJ&url=",
+      "ext": {
+        "flag": [
+          "CL4K"
+        ]
+      }
+    },
+    {
+      "name": "零刻影院",
+      "type": 1,
+      "url": "http://ys.ling00.cn/json/?url=",
+      "ext": {
+        "flag": [
+          "CL4K"
+        ]
+      }
+    },
+    {
+      "name": "300看世界(龙腾)",
+      "type": 1,
+      "url": "https://languangyingshiziyuan.1080zy.top/longteng.php/?url=",
+      "ext": {
+        "flag": [
+          "ltnb"
+        ]
+      }
+    },
+    {
+      "name": "琅琊影视界(龙腾)",
+      "type": 1,
+      "url": "https://ltjx.jeeves.vip/home/api?type=ys&uid=1589472&key=aehjpzAHILOPQRU456&url=",
+      "ext": {
+        "flag": [
+          "ltnb"
+        ]
+      }
+    },
+    {
+      "name": "抹茶猪界(龙腾)",
+      "type": 1,
+      "url": "https://ltjx.jeeves.vip/home/api?type=ys&uid=1136443&key=bhijopryzBJKLMSUX8&url=",
+      "ext": {
+        "flag": [
+          "ltnb"
+        ]
+      }
+    },
+    {
+      "name": "爱酷影视9",
+      "type": 1,
+      "url": "https://jx.zhanlangbu.com/json.php/?url=",
+      "ext": {
+        "flag": [
+          "xueren"
+        ]
+      }
+    },
+    {
+      "name": "绿箭影视界(龙腾)",
+      "type": 1,
+      "url": "https://ltjx.jeeves.vip/home/api?type=ys&uid=803828&key=cdefimpzDQTUW23679&url=",
+      "ext": {
+        "flag": [
+          "ltnb"
+        ]
+      }
+    },
+    {
+      "name": "南府影视",
+      "type": 1,
+      "url": "https://vvip.muxvip.com:8866/api/?key=xVIWNjOvnxgmvrPgXO&url=",
+      "ext": {
+        "flag": [
+          "muxm3u8",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果"
+        ]
+      }
+    },
+    {
+      "name": "粉象视界1",
+      "type": 1,
+      "url": "https://json.pangujiexi.com:12345/json.php?url=",
+      "ext": {
+        "flag": [
+          "youku",
+          "优酷",
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "mgtv",
+          "芒果"
+        ]
+      }
+    },
+    {
+      "name": "段友影视1",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯"
+        ]
+      }
+    },
+    {
+      "name": "菜鸟追剧",
+      "type": 1,
+      "url": "https://apis.jxcxin.cn/api/jx?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "mgtv",
+          "芒果"
+        ]
+      }
+    },
+    {
+      "name": "六把刀影院",
+      "type": 1,
+      "url": "https://vip.aiaine.com/api/?key=pJiKdUKoatLiVha0el&url=",
+      "ext": {
+        "flag": [
+          "miaoparty",
+          "miaoparty3"
+        ]
+      }
+    },
+    {
+      "name": "4K影院1",
+      "type": 1,
+      "url": "https://www.aiaine.com/api/?key=e4keFpymfY5keNsavC&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "pptv",
+          "PPTV",
+          "mgtv",
+          "芒果",
+          "youku",
+          "优酷"
+        ]
+      }
+    },
+    {
+      "name": "猫群专用4",
+      "type": 1,
+      "url": "https://jx.300ys.xyz/jiexi/v.php/?url="
+    },
+    {
+      "name": "猫群专用7",
+      "type": 1,
+      "url": "http://ts.yjhan.com:8090/api/?key=1BVRnXqJv5WOma49ti&url="
+    },
+    {
+      "name": "猫群专用8",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
+    },
+    {
+      "name": "久九影视",
+      "type": 1,
+      "url": "https://json.hfyrw.com/mao.go?url="
+    },
+    {
+      "name": "Yoyo1",
+      "type": 1,
+      "url": "https://json.legendwhb.cn/json.php/?url="
+    },
+    {
+      "name": "优视影视",
+      "type": 1,
+      "url": "http://ccc.ysys.asia/jx/?id=2&url="
+    },
+    {
+      "name": "优视影视2",
+      "type": 1,
+      "url": "http://ccc.ysys.asia/jx/?id=4&url="
+    },
+    {
+      "name": "追剧吧1",
+      "type": 1,
+      "url": "http://newjiexi.gotto.top/yun_apib.php/?url="
+    },    
+    {
+      "name": "猫群专用1",
+      "type": 1,
+      "url": "https://lt.kpjx.cc/Mao.php?url="
+    },
+    {
+      "name": "星空影视",
+      "type": 1,
+      "url": "http://api.vip123kan.vip/?url="
+    },
+    {
+      "name": "喵派对3(嗅探专解)",
+      "type": 0,
+      "url": "http://www.66kdy.com/dmplay/?url=",
+      "ext": {
+        "flag": [
+          "miaoparty",
+          "miaoparty2"
+        ]
+      }
+    },
+    {
+      "name": "BL解析(嗅探)",
+      "type": 0,
+      "url": "https://vip.bljiex.com/?v="
+    },
+    {
+      "name": "60解析(嗅探)",
+      "type": 0,
+      "url": "http://60jx.com/?url="
+    },
+    {
+      "name": "虾米(嗅探)",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "全民解析(嗅探)",
+      "type": 0,
+      "url": "https://jx.quanmingjiexi.com/?url="
+    },
+    {
+      "name": "Ckplayer(嗅探)",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "name": "CKMOV解析(嗅探)",
+      "type": 0,
+      "url": "https://ckmov.ccyjjd.com/ckmov/?url="
+    },
+    {
+      "name": "M3U8(嗅探)",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "老板(嗅探)",
+      "type": 0,
+      "url": "https://vip.laobandq.com/jiexi.php?url="
+    },
+    {
+      "name": "盘古(嗅探)",
+      "type": 0,
+      "url": "https://www.pangujiexi.cc/jiexi.php?url="
+    },
+    {
+      "name": "H8(嗅探)",
+      "type": 0,
+      "url": "https://www.h8jx.com/jiexi.php?url="
+    },
+    {
+      "name": "维多(嗅探)",
+      "type": 0,
+      "url": "http://jx.ivito.cn/?url="
+    },
+    {
+      "name": "盘古云(嗅探)",
+      "type": 0,
+      "url": "https://go.yh0523.cn/y.cy?url="
+    },
+    {
+      "name": "17云(嗅探)",
+      "type": 0,
+      "url": "https://www.1717yun.com/jx/ty.php?url="
+    },
+    {
+      "name": "8090(嗅探)",
+      "type": 0,
+      "url": "https://www.8090g.cn/?url="
+    },
+    {
+      "name": "Parwix解析1(嗅探)",
+      "type": 0,
+      "url": "https://vip.parwix.com:4433/player/?url="
+    },
+    {
+      "name": "高速接口1(嗅探)",
+      "type": 0,
+      "url": "https://jsap.attakids.com/?url="
+    },
+    {
+      "name": "B站解析2(嗅探)",
+      "type": 0,
+      "url": "https://www.cuan.la/m3u8.php?url="
+    },
+    {
+      "name": "618G",
+      "type": 0,
+      "url": "https://jx.618g.com/?url="
+    },
+    {
+      "name": "ckmov",
+      "type": 0,
+      "url": "https://www.ckmov.vip/api.php?url="
+    },
+    {
+      "name": "RDHK",
+      "type": 0,
+      "url": "https://jx.rdhk.net/?v="
+    },
+    {
+      "name": "解析啦",
+      "type": 0,
+      "url": "https://api.jiexi.la/?url="
+    },
+    {
+      "name": "久播",
+      "type": 0,
+      "url": "https://jx.jiubojx.com/vip.php?url="
+    },
+    {
+      "name": "九八",
+      "type": 0,
+      "url": "https://jx.youyitv.com/?url="
+    },
+    {
+      "name": "乐喵",
+      "type": 0,
+      "url": "https://jx.hao-zsj.cn/vip/?url="
+    },
+    {
+      "name": "MUTV",
+      "type": 0,
+      "url": "https://jiexi.janan.net/jiexi/?url="
+    },
+    {
+      "name": "久播",
+      "type": 0,
+      "url": "https://jx.jiubojx.com/vip/?url="
+    },
+    {
+      "name": "磨菇",
+      "type": 0,
+      "url": "https://jx.wzslw.cn/?url="
+    },
+    {
+      "name": "OK",
+      "type": 0,
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "小蒋",
+      "type": 0,
+      "url": "https://www.kpezp.cn/jlexi.php?url="
+    },
+    {
+      "name": "小狼",
+      "type": 0,
+      "url": "https://jx.yaohuaxuan.com/?url="
+    },
+    {
+      "name": "智能",
+      "type": 0,
+      "url": "https://vip.kurumit3.top/?v="
+    },
+    {
+      "name": "月亮",
+      "type": 0,
+      "url": "https://api.yueliangjx.com/?url="
+    },
+    {
+      "name": "云解析",
+      "type": 0,
+      "url": "https://jx.ergan.top/?url="
+    },
+    {
+      "name": "66",
+      "type": 0,
+      "url": "https://api.3jx.top/vip/?url="
+    },
+    {
+      "name": "云析",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url="
+    },
+    {
+      "name": "U猫",
+      "type": 0,
+      "url": "http://jiex.cf/?url="
+    },
+    {
+      "name": "爱跟",
+      "type": 0,
+      "url": "https://vip.2ktvb.com/player/?url="
+    },
+    {
+      "name": "CHok",
+      "type": 0,
+      "url": "https://www.gai4.com/?url="
+    },
+    {
+      "name": "冰豆",
+      "type": 0,
+      "url": "https://api.qianqi.net/vip/?url="
+    },
+    {
+      "name": "大白",
+      "type": 0,
+      "url": "https://api.myzch.cn/?url="
+    },
+    {
+      "name": "大幕",
+      "type": 0,
+      "url": "https://jx.52damu.com/dmjx/jiexi.php?url="
+    },
+    {
+      "name": "跟剧",
+      "type": 0,
+      "url": "https://www.5igen.com/dmplayer/player/?url="
+    },
+    {
+      "name": "可乐",
+      "type": 0,
+      "url": "https://jx.keleapi.com/?url="
+    },
+    {
+      "name": "LE",
+      "type": 0,
+      "url": "https://lecurl.cn/?url="
+    },
+    {
+      "name": "懒猫",
+      "type": 0,
+      "url": "https://api.lanmaody.com/dm/?url="
+    },
+    {
+      "name": "乐多",
+      "type": 0,
+      "url": "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid="
+    },
+    {
+      "name": "明日",
+      "type": 0,
+      "url": "https://jx.yingxiangbao.cn/vip.php?url="
+    },
+    {
+      "name": "诺诺",
+      "type": 0,
+      "url": "https://www.ckmov.com/?url="
+    },
+    {
+      "name": "诺讯",
+      "type": 0,
+      "url": "https://www.nxflv.com/?url="
+    },
+    {
+      "name": "PM",
+      "type": 0,
+      "url": "https://www.playm3u8.cn/jiexi.php?url="
+    },
+    {
+      "name": "奇米",
+      "type": 0,
+      "url": "https://qimihe.com/?url="
+    },
+    {
+      "name": "思云",
+      "type": 0,
+      "url": "https://jx.ap2p.cn/?url="
+    },
+    {
+      "name": "思古",
+      "type": 0,
+      "url": "https://api.sigujx.com/?url="
+    },
+    {
+      "name": "思古2",
+      "type": 0,
+      "url": "https://api.bbbbbb.me/jx/?url="
+    },
+    {
+      "name": "淘电影",
+      "type": 0,
+      "url": "https://jx.vodjx.top/vip/?url="
+    },
+    {
+      "name": "听乐",
+      "type": 0,
+      "url": "https://jx.dj6u.com/?url="
+    },
+    {
+      "name": "云点播",
+      "type": 0,
+      "url": "https://api.iopenyun.com:88/vip/?url="
+    },
+    {
+      "name": "飞鱼",
+      "type": 0,
+      "url": "https://app.feiyu5.com/json/?url="
+    },
+    {
+      "name": "1717",
+      "type": 0,
+      "url": "http://www.1717yun.com/jx/ty.php?url="
+    },
+    {
+      "name": "融兴瓜皮",
+      "type": 0,
+      "url": "http://rongxing.dijiaxia.com/player/?url="
+    },
+    {
+      "name": "看剧吧",
+      "type": 0,
+      "url": "http://m.kanju.best/?url="
+    },
+    {
+      "name": "融兴云",
+      "type": 0,
+      "url": "https://test.rongxingvr.com/test/?url="
+    },
+    {
+      "name": "555解析",
+      "type": 0,
+      "url": "https://dmku.dijiaxia.com/?url="
+    },
+    {
+      "name": "茗记云",
+      "type": 0,
+      "url": "https://cdn.tvmss.cn/jx/?url="
+    },
+    {
+      "name": "滴哩TV",
+      "type": 0,
+      "url": "https://app.diliktv.xyz/jx/?url="
+    },
+    {
+      "name": "电影先生",
+      "type": 0,
+      "url": "https://play.dianyi.ng/?url="
+    },
+    {
+      "name": "初心极速",
+      "type": 0,
+      "url": "https://player.5znn.pro/jiexi.php?url="
+    },
+    {
+      "name": "醉仙解析",
+      "type": 0,
+      "url": "https://jx.zui.cm/?url="
+    },
+    {
+      "name": "爱看云",
+      "type": 0,
+      "url": "http://api.akmov.net/?url="
+    },
+    {
+      "name": "蓝猫解析",
+      "type": 0,
+      "url": "https://jx.daidaitv.top:43810/?url="
+    },
+    {
+      "name": "SHDMV",
+      "type": 0,
+      "url": "http://vip.shdmv.com/?url="
+    },
+    {
+      "name": "M3U8蓝光直解",
+      "type": 0,
+      "url": "https://iptv.delphi9.com/play/json.php?url="
+    },
+    {
+      "name": "NFUXS解析",
+      "type": 0,
+      "url": "https://nf.xkvideo.design/m3u8.php?url="
+    },
+    {
+      "name": "皮皮猫",
+      "type": 0,
+      "url": "https://jx.hdys.cc/?url="
+    },
+    {
+      "name": "renrenmi",
+      "type": 0,
+      "url": "https://sudu.renrenmi.cc:2021/dp/analysis.php?v="
+    },
+    {
+      "name": "七哥云",
+      "type": 0,
+      "url": "https://jx.mmkv.cn/tv.php?url="
+    },
+    {
+      "name": "扶风云",
+      "type": 0,
+      "url": "https://q.591zhuiju.com/?url="
+    },
+    {
+      "name": "陈家解析",
+      "type": 0,
+      "url": "https://tv.cjt521.com/?url="
+    },
+    {
+      "name": "零玖解析",
+      "type": 0,
+      "url": " https://m3u8.09tv.top/player/?url="
+    },
+    {
+      "name": "追剧达人",
+      "type": 0,
+      "url": "https://vip123kan.vip/m3u8.php?url="
+    },
+    {
+      "name": "一抹解析",
+      "type": 0,
+      "url": "https://jx.yimo520.com/?url="
+    },
+    {
+      "name": "剧荒1080",
+      "type": 0,
+      "url": "https://bfq.zhimingtv.co/?url="
+    },
+    {
+      "name": "极速1080",
+      "type": 0,
+      "url": "http://www.sdinno.com/?url="
+    },
+    {
+      "name": "鲨鱼TV1080",
+      "type": 0,
+      "url": "https://www.mgtv.com.favnow.com/?token=sharktv&v="
+    },
+    {
+      "name": "YiTV1080",
+      "type": 0,
+      "url": "http://jiexi.us/?url="
+    },
+    {
+      "name": "有料TV",
+      "type": 0,
+      "url": "https://blog.ee7p.com/vip/8090/?url="
+    },
+    {
+      "name": "亿通云",
+      "type": 0,
+      "url": "https://ytyyy.top/m3u8/?url="
+    },
+    {
+      "name": "我乐云",
+      "type": 0,
+      "url": "https://svip.56tvs.com/?url="
+    },
+    {
+      "name": "麒麟蓝光",
+      "type": 0,
+      "url": "https://jx.sujx.top/jiexi.php/?url="
+    },
+    {
+      "name": "百度解析",
+      "type": 0,
+      "url": "https://jsap.88wuma.com/?url="
+    },
+    {
+      "name": "2A解析",
+      "type": 0,
+      "url": "https://www.2ajx.com/vip.php?url= "
+    },
+    {
+      "name": "H51080",
+      "type": 0,
+      "url": "https://www.zao60.com/?url="
+    },
+    {
+      "name": "OK云1080",
+      "type": 0,
+      "url": "https://okjx.superchen.top/?url="
+    },
+    {
+      "name": "逐梦云",
+      "type": 0,
+      "url": "https://jk.xwkj.site/?url="
+    },
+    {
+      "name": "蓝海蓝光",
+      "type": 0,
+      "url": "https://j.sviplan.cn/?url="
+    },
+    {
+      "name": "H52",
+      "type": 0,
+      "url": "https://82.156.204.15/?url="
+    },
+    {
+      "name": "JJ解析",
+      "type": 0,
+      "url": "http://www.jjxx.me/?url="
+    },
+    {
+      "name": "M3U8TV",
+      "type": 0,
+      "url": "https://dmjx.m3u8.tv/?url="
+    },
+    {
+      "name": "58高清",
+      "type": 0,
+      "url": "https://kkbia.com/?url="
+    },
+    {
+      "name": "星云1080",
+      "type": 0,
+      "url": "https://api.xingc.top/?url="
+    },
+    {
+      "name": "人人影视1080",
+      "type": 0,
+      "url": "https://jx.err.cc/?url="
+    },
+    {
+      "name": "游艺蓝光",
+      "type": 0,
+      "url": "http://api.u1o.net/?url="
+    },
+    {
+      "name": "KC2",
+      "type": 0,
+      "url": "https://www.murl.us/?url="
+    },
+    {
+      "name": "YL影视",
+      "type": 0,
+      "url": "https://vip.ylys.cc/?url="
+    },
+    {
+      "name": "KCVOD",
+      "type": 0,
+      "url": "https://154.23.128.35/?url="
+    },
+    {
+      "name": "清源解析",
+      "type": 0,
+      "url": "http://jx.linqingyuan.top/?url="
+    },
+    {
+      "name": "789pan",
+      "type": 0,
+      "url": "https://web.jiexi.work/777/?url="
+    },
+    {
+      "name": "饭团",
+      "type": 0,
+      "url": "https://play.tkys.tv/?url="
+    },
+    {
+      "name": "藍光解析",
+      "type": 0,
+      "url": "https://api.steak517.top/?url="
+    },
+    {
+      "name": "千億超清",
+      "type": 0,
+      "url": "https://www.qianyicp.com/?url="
+    },
+    {
+      "name": "無廣告超清",
+      "type": 0,
+      "url": "https://jx.awx88.cn/jiexi/?url="
+    },
+    {
+      "name": "高清解析1",
+      "type": 0,
+      "url": "https://titan.mgtv.com.jumi.tv/player/?url="
+    },
+    {
+      "name": "高清解析3",
+      "type": 0,
+      "url": "https://jx.ysgc.xyz/?url="
+    },
+    {
+      "name": "高清解析4",
+      "type": 0,
+      "url": "http://egwang186.gitee.io/?url="
+    },
+    {
+      "name": "高清解析7",
+      "type": 0,
+      "url": "https://jx.ppflv.com/?url="
+    },
+    {
+      "name": "高清解析8",
+      "type": 0,
+      "url": "http://an61.com/jx/vip?v="
+    },
+    {
+      "name": "蚂蚁兄弟",
+      "type": 0,
+      "url": "https://daili.mayixiongdi.cn/?url="
+    },
+    {
+      "name": "江湖D",
+      "type": 0,
+      "url": "http://jx.zhiaiyy.top/?url="
+    },
+    {
+      "name": "1080",
+      "type": 0,
+      "url": "http://159.75.133.231:1788/?key=1&url="
+    },
+    {
+      "name": "萌瓜",
+      "type": 0,
+      "url": "https://dm.2g88.vip/?url="
+    },
+    {
+      "name": "爱解",
+      "type": 0,
+      "url": "https://jiexi.t7g.cn/?url="
+    },
+    {
+      "name": "09",
+      "type": 0,
+      "url": "https://jx.09tv.top/bd/?url="
+    },
+    {
+      "name": "清莲",
+      "type": 0,
+      "url": "https://www.qinglyy.com/m3u8/?url="
+    },
+    {
+      "name": "遇见",
+      "type": 0,
+      "url": "https://jx.yujiannk.com/?url="
+    },
+    {
+      "name": "渐渐",
+      "type": 0,
+      "url": "https://titan.mgtv.com.janan.net:4433/mgtv1206/?url="
+    },
+    {
+      "name": "娱乐",
+      "type": 0,
+      "url": "https://vip.anje.cn/?url="
+    },
+    {
+      "name": "安逸",
+      "type": 0,
+      "url": "http://www.mgtv.com.wchulian.com.cn/player/analysis.php?v="
+    },
+    {
+      "name": "云云",
+      "type": 0,
+      "url": "http://159.75.133.231:81/jiexi/?url="
+    },
+    {
+      "name": "啊茹竹嘎",
+      "type": 0,
+      "url": "http://k.auuyruyc.com/player/?url="
+    },
+    {
+      "name": "段友.日批",
+      "type": 0,
+      "url": "https://jx.ns360.cn/1080/jiexi/?url="
+    },
+    {
+      "name": "暮光",
+      "type": 0,
+      "url": "https://www.mgtv.com.muguangys.com/jiexi1.php?url="
+    },
+    {
+      "name": "瓜皮",
+      "type": 0,
+      "url": "http://jxx.dijiaxia.com/?url="
+    },
+    {
+      "name": "PAR",
+      "type": 0,
+      "url": "https://jx.ihuikr.com/player/?url="
+    },
+    {
+      "name": "乐喵",
+      "type": 0,
+      "url": "http://jx.hao-zsj.cn/vip/?url="
+    },
+    {
+      "name": "优全",
+      "type": 0,
+      "url": "https://jx.xmyun.xyz/?url="
+    },
+    {
+      "name": "万福",
+      "type": 0,
+      "url": "https://jx.wfy4.com/?url="
+    },
+    {
+      "name": "樱花",
+      "type": 0,
+      "url": "https://buaon.xyz/?url="
+    },
+    {
+      "name": "白玉",
+      "type": 0,
+      "url": "https://jx.baiyu.buzz/?url="
+    },
+    {
+      "name": "白玉B",
+      "type": 0,
+      "url": "https://jx.baiyu.buzz/bb/?url="
+    },
+    {
+      "name": "白玉C",
+      "type": 0,
+      "url": "https://jx.baiyu.buzz/cc/?url="
+    },
+    {
+      "name": "淘影A",
+      "type": 0,
+      "url": "http://jx.1080jx.top/vipjx/?url="
+    },
+    {
+      "name": "淘影B",
+      "type": 0,
+      "url": "http://jx.1080jx.top/jxvip/?url="
+    },
+    {
+      "name": "淘影C",
+      "type": 0,
+      "url": "http://jx.1080jx.top/m3u8/?url="
+    },
+    {
+      "name": "淘影D",
+      "type": 0,
+      "url": "http://jx.1080jx.top/vip/?url="
+    },
+    {
+      "name": "淘影E",
+      "type": 0,
+      "url": "http://jx.1080jx.top/api/?url="
+    },
+    {
+      "name": "淘影F",
+      "type": 0,
+      "url": "http://jx.1080jx.top/jiexi/?url="
+    },
+    {
+      "name": "金j",
+      "type": 0,
+      "url": "http://jjxx.me/?url="
+    },
+    {
+      "name": "八一",
+      "type": 0,
+      "url": "http://vip.8bys.cn/?url="
+    },
+    {
+      "name": "宝莲",
+      "type": 0,
+      "url": "http://danmu.8old.cn/vip/?url="
+    },
+    {
+      "name": "速搜影院",
+      "type": 0,
+      "url": "http://vip.susou.tv/player/?url="
+    },
+    {
+      "name": "66parse",
+      "type": 0,
+      "url": "http://vip.66parse.club/?url="
+    },
+    {
+      "name": "八二",
+      "type": 0,
+      "url": "http://jx2.8bys.cn/m3u8.php?url="
+    },
+    {
+      "name": "M2090",
+      "type": 0,
+      "url": "https://m2090.com/?url="
+    },
+    {
+      "name": "MW0",
+      "type": 0,
+      "url": "https://jx.mw0.cc/?url="
+    },
+    {
+      "name": "番茄弹幕解析",
+      "type": 0,
+      "url": "http://jiexi.fqzy.cc/player/jx.php?url="
+    },
+    {
+      "name": "660e",
+      "type": 0,
+      "url": "https://660e.com/?url="
+    },
+    {
+      "name": "旧城影视",
+      "type": 0,
+      "url": "https://jx.9eng.cn/?url="
+    },
+    {
+      "name": "盘古",
+      "type": 0,
+      "url": "http://www.pangujiexi.cc/jiexi.php?url="
+    },
+    {
+      "name": "Mao全网解析",
+      "type": 0,
+      "url": "http://lecurl.cn/?url="
+    },
+    {
+      "name": "猪蹄",
+      "type": 0,
+      "url": "https://jx.iztyy.com/svip/?url="
+    },
+    {
+      "name": "小狼云",
+      "type": 0,
+      "url": "https://jx.xiaolangyun.com/?url="
+    },
+    {
+      "name": "云解析",
+      "type": 0,
+      "url": "https://jx.aidouer.net/?url="
+    },
+    {
+      "name": "线路三(备用)",
+      "type": 0,
+      "url": "https://jx.duzheba.cn/?url="
+    },
+    {
+      "name": "TNVIP云播放",
+      "type": 0,
+      "url": "http://www.33tn.cn/?url="
+    },
+    {
+      "name": "(带选集的二次解析)",
+      "type": 0,
+      "url": "https://parse.xymov.net/?url="
+    },
+    {
+      "name": "m3u8",
+      "type": 0,
+      "url": "http://jx.rdhk.net/?v="
+    },
+    {
+      "name": "智能接口",
+      "type": 0,
+      "url": "http://jiexi.30dian.cn/?url="
+    },
+    {
+      "name": "云栖",
+      "type": 0,
+      "url": "https://www.yq52.cn/film/?url="
+    },
+    {
+      "name": "神马",
+      "type": 0,
+      "url": "https://jxx.smys8.cn/index.php?url="
+    },
+    {
+      "name": "云波",
+      "type": 0,
+      "url": "https://zy.aoxtv.com/?url="
+    },
+    {
+      "name": "久已",
+      "type": 0,
+      "url": "https://www.91jxs.com/jiexi/?url="
+    },
+    {
+      "name": "盒子",
+      "type": 0,
+      "url": "http://jx5.178du.com/p1/?url="
+    },
+    {
+      "name": "七彩",
+      "type": 0,
+      "url": "https://www.xymav.com/?url="
+    },
+    {
+      "name": "ELW",
+      "type": 0,
+      "url": "https://jx.elwtc.com/vip/?url="
+    },
+    {
+      "name": "无名",
+      "type": 0,
+      "url": "https://www.administratorw.com/video.php?url="
+    },
+    {
+      "name": "33t",
+      "type": 0,
+      "url": "https://www.33tn.cn/?url="
+    },
+    {
+      "name": "夷狄",
+      "type": 0,
+      "url": "https://api.1dior.cn/analysis/123/index.php?uid=1428&my=afkruDFIYZ&url="
+    },
+    {
+      "name": "柠檬",
+      "type": 0,
+      "url": "https://youku.jianzhengobey.top/yueliang.php?v="
+    },
+    {
+      "name": "江湖F",
+      "type": 0,
+      "url": "http://jx.yhys.icu:4433/?url="
+    },
+    {
+      "name": "江湖B",
+      "type": 0,
+      "url": "https://123.xxgcx.cn:4433/jianghu.php?url="
+    },
+    {
+      "name": "leeleo",
+      "type": 0,
+      "url": "https://www.mgtv.com.leeleo.cn/nmm/player/?url="
+    },
+    {
+      "name": "酷吧",
+      "type": 0,
+      "url": "https://kuba.renrenmi.cc:2266/api/?key=1PhqM8xRCbmfgwmcE2&url="
+    },
+    {
+      "name": "高天",
+      "type": 0,
+      "url": "https://vip.gaotian.love/api/?key=sRy0QAq8hqXRlrEtrq&url="
+    },
+    {
+      "name": "ok",
+      "type": 0,
+      "url": "http://9ok.co/?url="
+    },
+    {
+      "name": "66影视",
+      "type": 0,
+      "url": "https://2.66movie.top/player/?url="
+    },
+    {
+      "name": "麦子",
+      "type": 0,
+      "url": "http://api.maizimall.com/index.php?url="
+    },
+    {
+      "name": "云海正版",
+      "type": 0,
+      "url": "https://jxjx.jushiys.co/player/ckplayer.php?url="
+    },
+    {
+      "name": "一起百度",
+      "type": 0,
+      "url": "https://jx5.178du.com/8090/jiexi/?url="
+    },
+    {
+      "name": "夜幕",
+      "type": 0,
+      "url": "https://www.yemu.xyz/?url="
+    },
+    {
+      "name": "明日解析",
+      "type": 0,
+      "url": "https://www.qianyicp.com/vip/vip_p3.php?url="
+    },
+    {
+      "name": "明日解析2",
+      "type": 0,
+      "url": "https://www.qianyicp.com/jiexi/index.php?url="
+    },
+    {
+      "name": "林志远",
+      "type": 0,
+      "url": "https://jiexi.linzhiyuan.xyz/jiexi/?url="
+    },
+    {
+      "name": "淘影蓝光",
+      "type": 0,
+      "url": "https://api.1dior.cn/analysis/1234/index.php?uid=1428&my=afkruDFIYZ&url="
+    },
+    {
+      "name": "淘影1080",
+      "type": 0,
+      "url": "https://jx.1080jx.top/jx/?url="
+    },
+    {
+      "name": "飞飞智能",
+      "type": 0,
+      "url": "https://y.9dan.cc/?v="
+    },
+    {
+      "name": "步步高",
+      "type": 0,
+      "url": "https://jx.xihujx.com/index.php?url="
+    },
+    {
+      "name": "飞捷",
+      "type": 0,
+      "url": "https://vip.fj6080.xyz/player/?url="
+    },
+    {
+      "name": "4k",
+      "type": 0,
+      "url": "https://vip.jx4k.com/vip/?url="
+    },
+    {
+      "name": "航海锚",
+      "type": 0,
+      "url": "https://vip.xrff.xyz/?url="
+    },
+    {
+      "name": "Mao",
+      "type": 0,
+      "url": "https://www.mtosz.com/m3u8.php?url="
+    },
+    {
+      "name": "1717云备用",
+      "type": 0,
+      "url": "https://www.1717yun.com/beiyong/?url="
+    },
+    {
+      "name": "尊享",
+      "type": 0,
+      "url": "https://player.maqq.cn/?url="
+    },
+    {
+      "name": "星驰",
+      "type": 0,
+      "url": "https://vip.swuii.top/?url="
+    },
+    {
+      "name": "优惠福利购",
+      "type": 0,
+      "url": "http://www.youhuifuligou.com/json/?id=1&url="
+    },
+    {
+      "name": "云海",
+      "type": 0,
+      "url": "https://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url="
+    },
+    {
+      "name": "VodJX1",
+      "type": 0,
+      "url": "https://api.vodjx.top/?url="
+    },
+    {
+      "name": "VodJX2",
+      "type": 0,
+      "url": "https://jx.vodjx.top/jiexi.php?url="
+    },
+    {
+      "name": "ok3389",
+      "type": 0,
+      "url": "https://api.okjx.cc:3389/jx.php?url="
+    },
+    {
+      "name": "游艺",
+      "type": 0,
+      "url": "https://api.u1o.net/?url="
+    },
+    {
+      "name": "娃娃",
+      "type": 0,
+      "url": "http://frog.pinellia.xyz/jx/?url="
+    },
+    {
+      "name": "人人迷",
+      "type": 0,
+      "url": "https://jx.renrenmi.cc/?url="
+    },
+    {
+      "name": "猫群专用2",
+      "type": 0,
+      "url": "https://jx.parwix.com:4433/player/analysis.php?v="
+    },
+    {
+      "name": "一只鱼",
+      "type": 0,
+      "url": "https://4kyu.cc/xplay/?url="
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "duoduozy",
+    "longteng",
+    "renrenmi",
+    "优酷",
+    "芒果",
+    "腾讯",
+    "爱奇艺",
+    "奇艺",
+    "ltnb",
+    "rx",
+    "xueren",
+    "xfyun",
+    "ziqie",
+    "wuduzy",
+    "CL4K",
+    "xuanfeng",
+    "1920l"
+  ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
+  ],
+  "ads": [
+    "mimg.0c1q0l.cn",
+    "www.googletagmanager.com",
+    "www.google-analytics.com",
+    "mc.usihnbcq.cn",
+    "mg.g1mm3d.cn",
+    "mscs.svaeuzh.cn",
+    "cnzz.hhttm.top",
+    "tp.vinuxhome.com",
+    "cnzz.mmstat.com",
+    "www.baihuillq.com",
+    "s23.cnzz.com",
+    "z3.cnzz.com",
+    "c.cnzz.com",
+    "stj.v1vo.top",
+    "z12.cnzz.com",
+    "img.mosflower.cn",
+    "tips.gamevvip.com",
+    "ehwe.yhdtns.com",
+    "xdn.cqqc3.com",
+    "www.jixunkyy.cn",
+    "sp.chemacid.cn",
+    "hm.baidu.com",
+    "s9.cnzz.com",
+    "z6.cnzz.com",
+    "um.cavuc.com",
+    "mav.mavuz.com",
+    "wofwk.aoidf3.com",
+    "z5.cnzz.com",
+    "xc.hubeijieshikj.cn",
+    "tj.tianwenhu.com",
+    "xg.gars57.cn",
+    "k.jinxiuzhilv.com",
+    "cdn.bootcss.com",
+    "ppl.xunzhuo123.com",
+    "xomk.jiangjunmh.top",
+    "img.xunzhuo123.com",
+    "z1.cnzz.com",
+    "s13.cnzz.com",
+    "xg.huataisangao.cn",
+    "z7.cnzz.com",
+    "xg.huataisangao.cn",
+    "z2.cnzz.com",
+    "s96.cnzz.com",
+    "q11.cnzz.com",
+    "thy.dacedsfa.cn",
+    "xg.whsbpw.cn",
+    "s19.cnzz.com",
+    "z8.cnzz.com",
+    "s4.cnzz.com",
+    "f5w.as12df.top",
+    "ae01.alicdn.com",
+    "www.92424.cn",
+    "k.wudejia.com",
+    "vivovip.mmszxc.top",
+    "qiu.xixiqiu.com",
+    "cdnjs.hnfenxun.com",
+    "cms.qdwght.com"
+  ],
+  "spider": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/jar/custom_spider.jar;md5;e9b45aaca137c83a784e05fbde87b2cc"
+}
